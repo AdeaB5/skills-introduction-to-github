@@ -3,8 +3,9 @@
 ## Um was geht es?
 
 Die beiden Übungen **Introduction to GitHub** und **Communicate using Markdown** vermitteln die Grundlagen zur Nutzung von GitHub und zur Arbeit mit Markdown.  
-Ziel ist es, Projekte strukturiert zu verwalten, Änderungen nachvollziehbar zu dokumentieren und Inhalte klar zu formatieren.  
-GitHub dient zur Zusammenarbeit und Versionskontrolle, während Markdown für eine übersichtliche und einheitliche Dokumentation sorgt.
+Ziel: Projekte strukturiert zu verwalten, Änderungen nachvollziehbar zu dokumentieren und Inhalte klar zu formatieren.  
+GitHub dient zur Zusammenarbeit und Versionskontrolle
+Markdown sorgt für eine übersichtliche und einheitliche Dokumentation
 
 ---
 
@@ -13,6 +14,7 @@ GitHub dient zur Zusammenarbeit und Versionskontrolle, während Markdown für ei
 ### 1. Repository & Branch  
 - Repository = zentrales Projektverzeichnis auf GitHub  
 - Branch = separater Arbeitsbereich für Änderungen  
+(my-first-branch)
 - Ermöglicht paralleles Arbeiten ohne Beeinflussung des Haupt-Branches  
 - Grundlage für saubere Versionsverwaltung
 
@@ -20,6 +22,7 @@ GitHub dient zur Zusammenarbeit und Versionskontrolle, während Markdown für ei
 
 ### 2. Commit & Pull Request  
 - Commit = Speichern von Änderungen mit Beschreibung  
+(Add PROFILE.md)
 - Pull Request = Vorschlag zur Integration der Änderungen in den Haupt-Branch  
 - Erlaubt Kontrolle, Nachvollziehbarkeit und Teamarbeit  
 - Zentrale Schritte in jedem GitHub-Workflow
@@ -34,18 +37,25 @@ GitHub dient zur Zusammenarbeit und Versionskontrolle, während Markdown für ei
 
 ---
 
-### 4. Markdown in der Praxis  
+### 4. Markdown
 - Anwendung zur Darstellung von Informationen, Code und Aufgaben  
-- Nützlich für To-Do-Listen, Fortschrittsanzeigen und Projektübersichten  
-
+- Nützlich für To-Do-Listen, Fortschrittsanzeigen und Projektübersichten 
 - Verbessert Lesbarkeit und Verständnis von Dokumentationen  
-- Unterstützt Kommunikation im Projektkontext
+
+Beispiele:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- var myVar = "Hello, world!";
+
+- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ---
 
-### 5. Zusammenarbeit & Dokumentation  
-- GitHub ermöglicht kooperative Entwicklung und Versionskontrolle  
-- Branches, Commits und Pull Requests strukturieren Arbeitsabläufe  
-- Markdown sorgt für nachvollziehbare, klare und konsistente Dokumentation  
-- Kombination aus beidem = effizientes und professionelles Arbeiten
+### 5. Merge & Versionskontrolle  
+- Merge = Zusammenführen von Änderungen in den Haupt-Branch  
+- Dient dazu, Arbeit aus verschiedenen Branches zu vereinen  
+- Versionskontrolle stellt sicher, dass Änderungen nachvollziehbar bleiben  
+- Wichtiger Schritt zum Abschluss eines Entwicklungszyklus  
 
