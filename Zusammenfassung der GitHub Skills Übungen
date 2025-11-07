@@ -1,0 +1,34 @@
+# Zusammenfassung der GitHub Skills Übungen
+
+## Um was geht es?
+In den Übungen **Introduction to GitHub** und **Communicate using Markdown** habe ich die Grundlagen von GitHub gelernt:
+- Wie man ein Repository erstellt, Branches verwendet, Commits macht und Pull Requests öffnet.
+- Wie man Markdown nutzt, um Dokumente sauber zu formatieren.
+
+## 5 wichtigste Learnings / Befehle / Konzepte
+
+1. **Repository erstellen**  
+   Ein Repository ist wie ein Ordner für dein Projekt. Alle Dateien und Versionen werden dort gespeichert.
+
+2. **Branch erstellen**  
+   Ein Branch ist eine parallele Version des Projekts. Du kannst Änderungen vornehmen, ohne die Hauptversion zu beeinflussen.
+
+3. **Commit machen**  
+   Ein Commit speichert Änderungen in deinem Branch. Jede Änderung wird mit einer Nachricht versehen, damit du später nachvollziehen kannst, was du verändert hast.
+
+4. **Pull Request öffnen und mergen**  
+   Ein Pull Request ist ein Vorschlag, deine Änderungen in den Haupt-Branch zu integrieren. Du zeigst anderen, was du geändert hast, und sie können es annehmen oder ändern.
+
+5. **Markdown einsetzen**  
+   Markdown ist eine einfache Sprache, um Text zu formatieren. Du kannst Überschriften, Listen, Links und Code einfach schreiben. Beispiel:
+   - **Überschrift:** `# Überschrift 1`
+   - **Codeblock:** `` `Code` ``
+
+## Abschluss
+Ich habe erfolgreich:
+- Ein Repository erstellt,
+- Einen Branch und eine Datei erstellt,
+- Einen Commit durchgeführt,
+- Einen Pull Request geöffnet und gemergt.
+
+Jetzt bin ich bereit, GitHub zu nutzen, Projekte zu erstellen und meine Arbeit mit anderen zu teilen! 🎉
