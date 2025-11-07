@@ -1,51 +1,51 @@
-# Zusammenfassung der GitHub Skills Übungen
+# GitHub Skills – Zusammenfassung
 
 ## Um was geht es?
 
-In den Übungen **Introduction to GitHub** und **Communicate using Markdown** habe ich gelernt, wie GitHub funktioniert und wie man Markdown benutzt, um Inhalte klar und strukturiert zu präsentieren. Diese Übungen helfen, GitHub als Plattform zu verstehen, um an Projekten zu arbeiten und effektiv mit anderen zu kommunizieren.
-
-- **GitHub** ist eine Plattform, auf der du Projekte verwaltest, mit anderen an Code arbeitest und Änderungen nachverfolgst.
-- **Markdown** ist eine einfache Textformatierung, mit der du deine Dokumentation und Kommentare übersichtlich gestaltest.
+Die beiden Übungen **Introduction to GitHub** und **Communicate using Markdown** vermitteln die Grundlagen zur Nutzung von GitHub und zur Arbeit mit Markdown.  
+Ziel ist es, Projekte strukturiert zu verwalten, Änderungen nachvollziehbar zu dokumentieren und Inhalte klar zu formatieren.  
+GitHub dient zur Zusammenarbeit und Versionskontrolle, während Markdown für eine übersichtliche und einheitliche Dokumentation sorgt.
 
 ---
 
 ## 5 wichtigste Take-Aways / Befehle / Learnings
 
-1. **Repository erstellen und nutzen**  
-   Ein Repository ist wie der **Ordner** für dein Projekt. Du kannst Dateien hinzufügen und die Änderungen nachverfolgen. In der ersten Übung habe ich ein neues Repository erstellt und es genutzt, um meine ersten Schritte mit GitHub zu machen.
-
-2. **Branch erstellen und arbeiten**  
-   Ein Branch erlaubt es dir, Änderungen vorzunehmen, ohne den Haupt-Branch zu beeinflussen. Ich habe den Branch **`my-first-branch`** erstellt, um sicher zu arbeiten, ohne den `main`-Branch zu verändern. Das ist nützlich, wenn du mit anderen zusammenarbeitest und sicherstellen willst, dass deine Änderungen nicht die Hauptversion zerstören.
-
-3. **Commit durchführen**  
-   Ein Commit speichert deine Änderungen und gibt ihnen eine Beschreibung. Ich habe eine **`PROFILE.md`** Datei erstellt und diese Änderungen mit einer Commit-Nachricht **"Add PROFILE.md"** festgehalten. Das ist wichtig, damit du und andere später nachvollziehen können, was geändert wurde.
-
-4. **Pull Request öffnen und mergen**  
-   Ein Pull Request (PR) ist eine Anfrage, deine Änderungen in den Haupt-Branch zu integrieren. Ich habe einen PR erstellt, um **meine Datei `PROFILE.md`** hinzuzufügen und anschließend gemergt, um die Änderungen zu übernehmen. Pull Requests sind besonders nützlich, wenn mehrere Leute an einem Projekt arbeiten und Änderungen überprüft werden müssen.
-
-5. **Markdown für Dokumentation und Kommunikation nutzen**  
-   In der zweiten Übung habe ich gelernt, wie man **Markdown** verwendet, um Dokumente zu strukturieren. Einige wichtige Features, die ich genutzt habe:
-   - **Überschriften** (`#` für größere Überschrift, `##` für kleinere Überschrift): Ich habe Überschriften erstellt, um Abschnitte klar zu kennzeichnen.
-   - **Bilder einfügen**: Zum Beispiel:  
-     ```markdown
-     ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-     ```
-   - **Codebeispiele** formatieren, z. B.:
-     ```javascript
-     var myVar = "Hello, world!";
-     ```
-   - **Task-Listen** erstellen, um Aufgaben nachzuverfolgen. Ich habe eine Liste mit Aufgaben wie dieser hinzugefügt:
-     ```markdown
-     - [ ] Turn on GitHub Pages
-     - [ ] Outline my portfolio
-     - [ ] Introduce myself to the world
-     ```
+### 1. Repository & Branch  
+- Repository = zentrales Projektverzeichnis auf GitHub  
+- Branch = separater Arbeitsbereich für Änderungen  
+- Ermöglicht paralleles Arbeiten ohne Beeinflussung des Haupt-Branches  
+- Grundlage für saubere Versionsverwaltung
 
 ---
 
-## Abschluss
+### 2. Commit & Pull Request  
+- Commit = Speichern von Änderungen mit Beschreibung  
+- Pull Request = Vorschlag zur Integration der Änderungen in den Haupt-Branch  
+- Erlaubt Kontrolle, Nachvollziehbarkeit und Teamarbeit  
+- Zentrale Schritte in jedem GitHub-Workflow
 
-Durch diese Übungen habe ich viele GitHub-Grundlagen gelernt:
-- Ich kann **Repositories erstellen** und mit **Branches** arbeiten.
-- Ich weiß, wie man **Commits** macht, **Pull Requests öffnet** und sie **merged**.
-- Markdown hilft mir, **Dokumentationen zu erstellen**, **Codebeispiele einzufügen** und **Checklisten zu nutzen**, um Aufgaben klar zu organisieren.
+---
+
+### 3. Markdown-Grundlagen  
+- Markdown = einfache Textauszeichnungssprache  
+- Nutzung für Dokumentation, Readme-Dateien, Projektbeschreibungen  
+- Unterstützt Überschriften, Listen, Fett- und Kursivschrift, Codeblöcke usw.  
+- Sorgt für klare, strukturierte und einheitliche Texte
+
+---
+
+### 4. Markdown in der Praxis  
+- Anwendung zur Darstellung von Informationen, Code und Aufgaben  
+- Nützlich für To-Do-Listen, Fortschrittsanzeigen und Projektübersichten  
+
+- Verbessert Lesbarkeit und Verständnis von Dokumentationen  
+- Unterstützt Kommunikation im Projektkontext
+
+---
+
+### 5. Zusammenarbeit & Dokumentation  
+- GitHub ermöglicht kooperative Entwicklung und Versionskontrolle  
+- Branches, Commits und Pull Requests strukturieren Arbeitsabläufe  
+- Markdown sorgt für nachvollziehbare, klare und konsistente Dokumentation  
+- Kombination aus beidem = effizientes und professionelles Arbeiten
+
