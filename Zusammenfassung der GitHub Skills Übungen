@@ -35,6 +35,14 @@ Markdown sorgt für eine übersichtliche und einheitliche Dokumentation
 - Unterstützt Überschriften, Listen, Fett- und Kursivschrift, Codeblöcke usw.  
 - Sorgt für klare, strukturierte und einheitliche Texte
 
+- Hashtags:
+# Überschrift 1  → größte
+## Überschrift 2  → etwas kleiner
+### Überschrift 3  → noch kleiner
+#### Überschrift 4
+##### Überschrift 5
+###### Überschrift 6  → kleinste
+
 ---
 
 ### 4. Markdown
